@@ -1,0 +1,3 @@
+addr2line
+logcat
+find the last pc values and see which function call where failure occurs
